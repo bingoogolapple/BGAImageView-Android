@@ -7,7 +7,7 @@
 
 ### 效果图
 
-![Image of BGAImageViewDemo](http://7xk9dj.com1.z0.glb.clouddn.com/imageview/bgaimageview.jpg)
+![Image of BGAImageViewDemo](http://7xk9dj.com1.z0.glb.clouddn.com/imageview/bgaimageview.jpg?imageView2/2/w/320)
 
 ### Gradle依赖 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/cn.bingoogolapple/bga-imageview/badge.svg)](https://maven-badges.herokuapp.com/maven-central/cn.bingoogolapple/bga-imageview) ***「latestVersion」指的是左边这个 maven-central 徽章后面的「数字」，请自行替换。***
 
